@@ -2,16 +2,15 @@
 Kumpulan Bot Facebook Automation:
 Auto Claim PiggyPiggy Telegram Bot Game App Multi Account.
 
-### Fitur :
-   ![Screenshot](screenshot.png)
+![Screenshot](ss.png)
 
-### Hot to Settings Bot?
-    $ <p>Daftar <a href="https://t.me/PiggyPiggyofficialbot/game?startapp=share_7257969048" target="_blank">Klik Disini!</a></p>
-    $ Masukkan Cookies Atau TgWebAppData Akun Telegram (Dev Mode Kiwi Browser, dll)
-    $ Done
+# Hot to Settings Bot?
+- <p>Daftar <a href="https://t.me/PiggyPiggyofficialbot/game?startapp=share_7257969048" target="_blank">Klik Disini!</a></p>
+- Masukkan Cookies Atau TgWebAppData Akun Telegram (Dev Mode Kiwi Browser, dll)
+- Done
 
 
-   ![Screenshot](TgWebAppData.png)
+![Screenshot](TgWebAppData.png)
 
    
 ### Perintah Termux :
