@@ -1,10 +1,11 @@
 # Telegram Bot
-Kumpulan Bot Facebook Automation:
+<p>Link Daftar/Join Bot: <a href="https://t.me/PiggyPiggyofficialbot/game?startapp=share_7257969048" target="_blank">Klik Disini!</a></p>
 Auto Claim PiggyPiggy Telegram Bot Game App Multi Account.
 
-![Screenshot](ss.png)
+### Video Overview
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/djybXK3Ik80/0.jpg)](https://www.youtube.com/watch?v=djybXK3Ik80)
 
-# Hot to Settings Bot?
+### Hot to Settings?
 - <p>Daftar <a href="https://t.me/PiggyPiggyofficialbot/game?startapp=share_7257969048" target="_blank">Klik Disini!</a></p>
 - Masukkan Cookies Atau TgWebAppData Akun Telegram (Dev Mode Kiwi Browser, dll)
 - Done
